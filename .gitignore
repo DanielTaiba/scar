@@ -2,3 +2,7 @@
 geckodriver.log
 /html
 dataCars.csv
+/.ipynb_*
+/*pycache*
+sprint.md
+/.vscode

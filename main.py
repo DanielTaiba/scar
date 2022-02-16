@@ -1,7 +1,4 @@
-from pages import chileAutos
-
-
-
+from scrapper import chileAutos
 
 if __name__=='__main__':
-    scrapy=chileAutos()
+    chileAutos().getCars()
